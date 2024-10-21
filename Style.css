@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    list-style-position: inside;
+}
+h1 {
+    color: rebeccapurple;
+    font-size: 50pt;
+    margin: 10pt;
+}
+h2{
+    color: red;
+}
+.SubInfo{
+    color: purple;
+    text-align: left;
+}
+img{
+    border-radius: 10pt;
+    width: 300pt;
+}
